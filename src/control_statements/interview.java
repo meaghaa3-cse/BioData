@@ -14,6 +14,7 @@ public class interview {
 	        System.out.print("Enter Technical Interview marks: ");
 	        int tech = sc.nextInt();
 
+	        
 	        System.out.print("Enter HR Interview marks: ");
 	        int hr = sc.nextInt();
 
